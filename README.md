@@ -3,7 +3,7 @@ Mupen64plus standalone hack for installing Mupen64plus standalone rice and glide
 
 This is a hacked port because I did not have to compile this. I simply took the mupen64plus standalone with rice and glide from ark os and transferred it to 351elec and made it work.
 
-Things to tae note of:
+Things to take note of:
 1. If the official Mupen64plus standalone gets updated in the future, I will NOT be able to update my hacked port because I have taken it from ark os and ark os no longer is being updated so Mupen will not be updated on ark os for me to be able to transfer the updated files to 351elec.
 
 2. If in a future release of 351elec the 351elec dev updates the n64 category, you will need to uninstall my mupen hacked port for the changes of the updated n64 category to take effect. This is just until I update my es_sytems_custom1.cfg. At which point you will have to reinstall my updated es_systems_custom1.cfg.  
