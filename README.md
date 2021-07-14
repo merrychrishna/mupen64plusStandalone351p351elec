@@ -56,4 +56,5 @@ Run the installer by typing this.
 
 
 Now all you have to do is restart Emulationstation and Mupen64plus stand alone Rice and Glide will show up in your emulator list. 
-Done.
+
+You're done.
