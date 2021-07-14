@@ -40,14 +40,20 @@ login info:
 username: root
 password: 351elec
 
-Navigate to the mupen install folder by typing this,
+Navigate to the mupen install folder by typing this.
+
 cd mupen64plusINSTALL
 
-Make the install file executable by typing this,
+
+Make the install file executable by typing this.
+
 chmod +x install.sh
 
-Run the installer by typing this,
+
+Run the installer by typing this.
+
 ./install.sh
+
 
 Now all you have to do is restart Emulationstation and Mupen64plus stand alone Rice and Glide will show up in your emulator list. 
 Done.
