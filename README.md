@@ -36,7 +36,7 @@ password: 351elec
 
 Drag the extracted folder called ```mupen64plusINSTALL``` from your PC to the folder called ```STORAGE``` in 351elec
 
-Use Putty to SSH into your andbernic 351p.
+Use Putty to SSH into your anbernic 351p.
 
 Input your IP address of your anbernic 351p.
 
