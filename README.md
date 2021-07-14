@@ -1,5 +1,5 @@
 # mupen64plusStandalone351p351elec
-Mupen64plus standalone hack for installing Mupen64plus standalone rice and glide on 351elec on Anbernic rg351p handheld
+Mupen64plus standalone hack for installing Mupen64plus standalone rice and glide on 351elec on Anbernic rg351p/m handheld
 
 This is a hacked port because I did not have to compile this. I simply took the mupen64plus standalone with rice and glide from ark os and transferred it to 351elec and made it work.
 
