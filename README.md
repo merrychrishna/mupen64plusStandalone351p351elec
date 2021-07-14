@@ -22,41 +22,43 @@ I have only tested this hacked port on the rg351p.
 INSTALLATION INSTRUCTIONS
 
 On Windows,
-Extract the mupen64plusIPORTEDfromArkOS.zip on your PC.
+Extract the ```mupen64plusIPORTEDfromArkOS.zip``` on your PC.
 
 Then log into your 351p with sftp using something like winscp (be sure to enable show hidden files in winscp, just encase)
 connect to the same wifi on both your PC and anbernic 351p.
 input your IP address of your anbernic 351p.
 
 login info:
-
+```
 username: root
 password: 351elec
+```
 
-
-Drag the extracted folder called mupen64plusINSTALL from your PC to the folder called STORAGE in 351elec
+Drag the extracted folder called ```mupen64plusINSTALL``` from your PC to the folder called ```STORAGE``` in 351elec
 
 Use Putty to SSH into your andbernic 351p.
-input your IP address of your anbernic 351p.
+
+Input your IP address of your anbernic 351p.
 
 login info:
-
+```
 username: root
 password: 351elec
+```
 
 Navigate to the mupen install folder by typing this.
 
-cd mupen64plusINSTALL
+```cd mupen64plusINSTALL```
 
 
 Make the install file executable by typing this.
 
-chmod +x install.sh
+```chmod +x install.sh```
 
 
 Run the installer by typing this.
 
-./install.sh
+```./install.sh```
 
 
 Now all you have to do is restart Emulationstation and Mupen64plus stand alone Rice and Glide will show up in your emulator list. 
