@@ -64,3 +64,7 @@ Run the installer by typing this.
 Now all you have to do is restart Emulationstation and Mupen64plus stand alone Rice and Glide will show up in your emulator list. 
 
 You're done.
+
+# If you have the Anbernic RG351V, use this instead:
+
+# https://github.com/merrychrishna/mupen64plusStandalone351V351elec/tree/merrychrishna-patch-1
