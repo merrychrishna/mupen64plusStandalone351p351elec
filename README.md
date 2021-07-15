@@ -22,7 +22,7 @@ I have only tested this hacked port on the rg351p.
 INSTALLATION INSTRUCTIONS
 
 On Windows,
-Extract the ```mupen64plusIPORTEDfromArkOS.zip``` on your PC.
+Extract the ```mupen64plusIPORTEDfromArkOSrg351PM.zip``` on your PC.
 
 Then log into your 351p with sftp using something like winscp (be sure to enable show hidden files in winscp, just encase)
 connect to the same wifi on both your PC and anbernic 351p.
@@ -34,7 +34,7 @@ username: root
 password: 351elec
 ```
 
-Drag the extracted folder called ```mupen64plusINSTALL``` from your PC to the folder called ```STORAGE``` in 351elec
+Drag the extracted folder called ```mupen64plusINSTALL351PM``` from your PC to the folder called ```STORAGE``` in 351elec
 
 Use Putty to SSH into your anbernic 351p.
 
@@ -48,7 +48,7 @@ password: 351elec
 
 Navigate to the mupen install folder by typing this.
 
-```cd mupen64plusINSTALL```
+```cd mupen64plusINSTALL351PM```
 
 
 Make the install file executable by typing this.
