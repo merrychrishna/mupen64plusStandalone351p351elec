@@ -19,7 +19,7 @@ I have only tested this hacked port on the rg351p.
 
 
 
-INSTALLATION INSTRUCTIONS
+# INSTALLATION INSTRUCTIONS
 
 On Windows,
 Extract the ```mupen64plusIPORTEDfromArkOSrg351PM.zip``` on your PC.
@@ -67,4 +67,4 @@ You're done.
 
 # If you have the Anbernic RG351V, use this instead:
 
-# https://github.com/merrychrishna/mupen64plusStandalone351V351elec/tree/merrychrishna-patch-1
+# https://github.com/merrychrishna/mupen64plusStandalone351V351elec/tree/merrychrishna-patch-2
