@@ -66,7 +66,7 @@ Now all you have to do is restart Emulationstation and Mupen64plus stand alone R
 You're done.
 
 # REMAPPING BUTTONS
-You can remap the buttons on after line 2101 in the InputAutoCfg.ini which can be found in the mupen install folder called ```mupen64plusINSTALL351PM```. After you have remapped the buttons, you must run the installer again to save the changes by typing ```./install.sh``` with ssh in putty.
+You can remap the buttons after line 2101 in the InputAutoCfg.ini which can be found in the mupen install folder called ```mupen64plusINSTALL351PM```. After you have remapped the buttons, you must run the installer again to save the changes by typing ```./install.sh``` with ssh in putty.
 
 
 
