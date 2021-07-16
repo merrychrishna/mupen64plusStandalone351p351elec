@@ -26,7 +26,8 @@ Extract the ```mupen64plusIPORTEDfromArkOS.zip``` on your PC.
 
 Then log into your 351p with sftp using something like winscp (be sure to enable show hidden files in winscp, just encase)
 connect to the same wifi on both your PC and anbernic 351p.
-input your IP address of your anbernic 351p.
+
+Input your IP address of your anbernic 351p into winscp.
 
 login info:
 ```
@@ -38,7 +39,7 @@ Drag the extracted folder called ```mupen64plusINSTALL``` from your PC to the fo
 
 Use Putty to SSH into your anbernic 351p.
 
-Input your IP address of your anbernic 351p.
+Input your IP address of your anbernic 351p into Putty.
 
 login info:
 ```
